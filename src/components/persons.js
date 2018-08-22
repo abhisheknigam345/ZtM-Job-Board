@@ -5130,4 +5130,20 @@ export const persons = [
       country: "Philippines"
     }
   },
+  {
+    id: 172,
+    name: "Abhishek Nigam",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "",
+      github: ""
+    },
+    jobTitle: "Front-End Developer",
+    location: {
+      city: "Mumbai",
+      state: "",
+      country: "India"
+    }
+  },
 ];
